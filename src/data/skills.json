@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "icon": "https://res.cloudinary.com/gurjotgill/image/upload/v1667274204/Gill/api_djopwz.png",
+    "name": "Restful API"
+  },
+  {
+    "id": 2,
+    "icon": "https://res.cloudinary.com/gurjotgill/image/upload/v1667274204/Gill/node_vm9jgg.png",
+    "name": "NodeJs"
+  },
+  {
+    "id": 3,
+    "icon": "https://res.cloudinary.com/gurjotgill/image/upload/v1667274204/Gill/chakra-ui_qitwlw.png",
+    "name": "Chakra-UI"
+  },
+  {
+    "id": 4,
+    "icon": "https://res.cloudinary.com/gurjotgill/image/upload/v1667274204/Gill/react_hwqaax.png",
+    "name": "React"
+  },
+  {
+    "id": 5,
+    "icon": "https://res.cloudinary.com/gurjotgill/image/upload/v1667274204/Gill/redux_qsm3ot.png",
+    "name": "Redux"
+  },
+  {
+    "id": 6,
+    "icon": "https://res.cloudinary.com/gurjotgill/image/upload/v1667274204/Gill/typescript_kyhrzb.png",
+    "name": "TypeScript"
+  },
+  {
+    "id": 7,
+    "icon": "https://res.cloudinary.com/gurjotgill/image/upload/v1667274203/Gill/mongo_g1zgxf.png",
+    "name": "MongoDb"
+  },
+  {
+    "id": 8,
+    "icon": "https://res.cloudinary.com/gurjotgill/image/upload/v1667274203/Gill/html_afhlrb.png",
+    "name": "HTML5"
+  },
+  {
+    "id": 9,
+    "icon": "https://res.cloudinary.com/gurjotgill/image/upload/v1667274203/Gill/css_cn2ljh.png",
+    "name": "CSS3"
+  },
+  {
+    "id": 10,
+    "icon": "https://res.cloudinary.com/gurjotgill/image/upload/v1667274203/Gill/javascript_yj0b9p.png",
+    "name": "Javascript"
+  },
+  {
+    "id": 11,
+    "icon": "https://res.cloudinary.com/gurjotgill/image/upload/v1667274203/Gill/git_wbr7dv.png",
+    "name": "Git"
+  },
+  {
+    "id": 12,
+    "icon": "https://res.cloudinary.com/gurjotgill/image/upload/v1668660824/Gill/WordPress_ytglxi.png",
+    "name": "WordPress"
+  }
+]
